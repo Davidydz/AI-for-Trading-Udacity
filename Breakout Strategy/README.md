@@ -1,2 +1,2 @@
 # Project Overview
-n this project, you will implement the breakout strategy. You'll find and remove any outliers. You'll test to see if it has the potential to be profitable using a Histogram and P-Value. For the dataset, we'll be using the end of day from Quotemedia.
+In this project, I will implement the breakout strategy. I will first find and remove any outliers, and then I'll test to see if it has the potential to be profitable using a Histogram and P-Value. The dataset is the end of day from Quotemedia.
